@@ -6,8 +6,6 @@ the largest group-readable regular file. Takes two optional commandline argument
 considered.
 
 Sheilla Shojaie
-g3s
-for CSC209 Fall 2014
 
 ----------------------------------------------------------------------------------*/
 
